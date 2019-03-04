@@ -1,18 +1,18 @@
 {
-	"settings": {
+  "settings": {
     "colorfulIcons": true,
     "hideEmptyFields": true,
 
-		"canCreate": false,
+    "canCreate": false,
     "canOpenDemo": false,
-		"canOpenSettings": false,
-		"canImportXml": false,
+    "canOpenSettings": false,
+    "canImportXml": false,
 
-		"gdrive": true,
-		"gdriveClientId": "43695086057-08hqlmvp2tmreat7rt83jbp22i17von9.apps.googleusercontent.com",
+    "gdrive": true,
+    "gdriveClientId": "43695086057-08hqlmvp2tmreat7rt83jbp22i17von9.apps.googleusercontent.com",
 
-		"dropbox": false,
-		"webdav": false,
-		"onedrive": false
-	}
+    "dropbox": false,
+    "webdav": false,
+    "onedrive": false
+  }
 }
